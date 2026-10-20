@@ -1,0 +1,7 @@
+# ความลับ / ข้อมูลในเครื่อง — ห้ามขึ้น git
+.env
+*.db
+*.db-shm
+*.db-wal
+*.log
+node_modules/
